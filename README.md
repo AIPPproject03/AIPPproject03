@@ -1,4 +1,4 @@
-### A.IRWIN PUTRA PANGESTI IS HERE 👋
+### HEY THERE👋 I'M A.IRWIN PUTRA PANGESTI
 
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 - 🌱 I’m currently learning C++, Java, Python, HTML
