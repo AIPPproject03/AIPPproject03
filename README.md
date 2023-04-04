@@ -1,7 +1,6 @@
 <h1 align="center">A.Irwin Putra Pangesti</h1>
 <h2 align="center">KEEP CODING UNTIL OVER</h2>
 <img align="right" alt="estetik" width="400" src="https://user-images.githubusercontent.com/115967151/229805895-bad11c12-928f-4922-9780-0ca9edd91898.gif">
-
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 
 - 🌱 I’m currently learning C++, Java, Python, HTML
