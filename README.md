@@ -8,5 +8,8 @@
 - 📫 How to reach me: ???
 - ⚡ Fun fact: i can play badminton well hehe 
 
+<a href="https://www.instagram.com/aippirwin/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ![ezgif-3-edcc3cba47](https://user-images.githubusercontent.com/115967151/229805895-bad11c12-928f-4922-9780-0ca9edd91898.gif)
