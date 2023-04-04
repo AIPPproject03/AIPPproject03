@@ -1,5 +1,5 @@
 <h1 align="center">A.Irwin Putra Pangesti</h1>
-<h3 align="center">KEEP CODING UNTIL OVER</h3>
+<h2 align="center">KEEP CODING UNTIL OVER</h2>
 
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 - 🌱 I’m currently learning C++, Java, Python, HTML
