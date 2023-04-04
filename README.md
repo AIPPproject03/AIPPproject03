@@ -1,6 +1,6 @@
 <h1 align="center">A.Irwin Putra Pangesti</h1>
 <h2 align="center">KEEP CODING UNTIL OVER</h2>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="estetik" width="400" src="[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://user-images.githubusercontent.com/115967151/229805895-bad11c12-928f-4922-9780-0ca9edd91898.gif)">
 
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-![ezgif-3-edcc3cba47](https://user-images.githubusercontent.com/115967151/229805895-bad11c12-928f-4922-9780-0ca9edd91898.gif)
 <br>
 <h3 align="left">Language And Tools :</h3>
 <div align="left">
