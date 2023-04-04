@@ -1,5 +1,6 @@
 <h1 align="center">A.Irwin Putra Pangesti</h1>
 <h2 align="center">KEEP CODING UNTIL OVER</h2>
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 
