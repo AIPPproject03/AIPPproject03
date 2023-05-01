@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on Palangkaraya University as Informatic Enginner
 
-- 🌱 I’m currently learning C++, Java, Python, HTML
+- 🌱 I’m currently learning C++, Java, Python, and Front-End Web Dev
 
 - 👯 I’m looking to collaborate on Google and ChatGPT
 
