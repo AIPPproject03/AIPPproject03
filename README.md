@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=A.%20Irwin%20Putra%20Pangesti&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Web3%20%2F%20Blockchain%20%E2%80%A2%20AI%20%26%20ML&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=A.%20Irwin%20Putra%20Pangesti&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web3%20and%20Blockchain%20%7C%20AI%20and%20Machine%20Learning&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Informatics+Engineering+Graduate+%7C+Cum+Laude+%F0%9F%8E%93;Building+secure+%26+useful+web+products;Web3+%E2%80%A2+Cryptography+%E2%80%A2+Full-Stack;Former+national-level+badminton+athlete+%F0%9F%8F%B8;KEEP+CODING+UNTIL+OVER" alt="Typing SVG" />
