@@ -181,7 +181,7 @@ Designed and launched the village profile website and digitally mapped the villa
 
 <a href="mailto:aippirwin@gmail.com"><img src="https://img.shields.io/badge/aippirwin@gmail.com-203a43?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-*"Keep coding until over."* 🚀
+*"But seek first the kingdom of God and his righteousness, and all these things will be added to you."Matthew 6:33* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
